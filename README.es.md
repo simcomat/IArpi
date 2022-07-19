@@ -22,7 +22,7 @@ Debe tener `Python 3` instalado en su computador, con el administrador de paquet
 - Jupyter Notebook:
 `pip install notebook`
 - Para el trabajo con tablas:
-`pip install pandas
+`pip install pandas`
 - Para usar ciertas funciones matemáticas:
 `pip install numpy`
 - Para realizar los gráficos:
