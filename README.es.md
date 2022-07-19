@@ -5,7 +5,7 @@
 Con el objetivo de introducir los conceptos de Machine Learning en los cursos de física, presentamos el **IArpi**: un experimento de aplicación de la Inteligencia Artificial en el estudio del Rodamiento de objetos en el Plano Inclinado. En este repositorio están disponibles los scripts de Python en Jupyter Notebook que contienen la aplicación de Machine Learning de Regresión y Clasificación sobre los datos experimentales del rodamiento en el plano inclinado.
 
 
-Para comprender la inserción de estos métodos en los cursos de grado de física, recolectamos datos de los planes de estudios (en portugués) de las disciplinas de física computacional (o relacionadas) de diferentes universidades federales Brasileñas. Hicimos un análisis estadístico preliminar utilizando el procesamiento del lenguaje natural y el aprendizaje automático de clústeres y descubrimos que estos temas no se exploran en los cursos de física hasta la fecha. Los datos recopilados también están disponibles aquí. 
+Para comprender la inserción de estos métodos en los cursos de pregrado en física, recolectamos datos de los planes de estudios de las disciplinas de física computacional (o relacionadas) de diferentes universidades federales Brasileñas. Hicimos un análisis estadístico preliminar utilizando el procesamiento del lenguaje natural y el aprendizaje automático de clústeres y descubrimos que estos temas no se exploran en los cursos de física hasta la fecha. Los datos recopilados también están disponibles aquí. 
 
 ![](https://github.com/simcomat/IArpi/blob/main/iarpi.png)
 
@@ -21,12 +21,12 @@ Debe tener `Python 3` instalado en su computador, con el administrador de paquet
 
 - Jupyter Notebook:
 `pip install notebook`
-- Para el trabajo con taablas:
+- Para el trabajo con tablas:
 `pip install pandas
 - Para usar ciertas funciones matemáticas:
 `pip install numpy`
 - Para realizar los gráficos:
-`pip install matplolib`
+`pip install matplolib`,
 `pip install seaborn`
 - Para utilizar los algoritmos de Machine Learning:
 `pip install -U scikit-learn`
