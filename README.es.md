@@ -29,7 +29,7 @@ Debe tener `Python 3` instalado en su computador, con el administrador de paquet
 `pip install matplolib`,
 `pip install seaborn`
 - Para utilizar los algoritmos de Machine Learning:
-`pip install -U scikit-learn`
+`pip install -U scikit-learn`.
 
 O todas las bibliotecas se pueden instalar a la vez ejecutando pip sobre el archivo `requirements.txt`:
 `pip install -r requirements.txt`
