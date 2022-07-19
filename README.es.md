@@ -5,7 +5,7 @@
 Con el objetivo de introducir los conceptos de Machine Learning en los cursos de física, presentamos el **IArpi**: un experimento de aplicación de la Inteligencia Artificial en el estudio del Rodamiento de objetos en el Plano Inclinado. En este repositorio están disponibles los scripts de Python en Jupyter Notebook que contienen la aplicación de Machine Learning de Regresión y Clasificación sobre los datos experimentales del rodamiento en el plano inclinado.
 
 
-Para comprender la inserción de estos métodos en los cursos de pregrado en física, recolectamos datos de los planes de estudios de las disciplinas de física computacional (o relacionadas) de diferentes universidades federales Brasileñas. Hicimos un análisis estadístico preliminar utilizando el procesamiento del lenguaje natural y el aprendizaje automático de clústeres y descubrimos que estos temas no se exploran en los cursos de física hasta la fecha. Los datos recopilados también se encuentrán disponibles aquí. 
+Para comprender la inserción de estos métodos en los cursos de pregrado en física, recolectamos datos de los planes de estudios de las disciplinas de física computacional (o relacionadas) de diferentes universidades federales Brasileñas. Hicimos un análisis estadístico preliminar utilizando el procesamiento del lenguaje natural y el aprendizaje automático de clústeres y encontramos que estos temas no se exploran en los cursos de física hasta la fecha. Los datos recopilados también se encuentrán disponibles aquí. 
 
 ![](https://github.com/simcomat/IArpi/blob/main/iarpi.png)
 
