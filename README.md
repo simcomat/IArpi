@@ -35,3 +35,6 @@ It is necessary a `Python 3` installation, with `pip` package manager. The used 
 
 Otherwise, all libraries can be installed in one shot running pip over `requirements.txt` file by:
 `pip install -r requirements.txt`
+
+## Related Work
+H. Ferreira, E. F. Almeida Junior, W. Espinsa-Garcia, E. Novais, J. N. B. Rodrigues, G. M. Dalpian. Introduzindo aprendizado de máquina em cursos de física: o caso do rolamento do plano inclinado, Revista Brasileira de Ensino de Física, vol. 44, 2022. DOI: https://doi.org/10.1590/1806-9126-RBEF-2022-0214   
