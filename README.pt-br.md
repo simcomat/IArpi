@@ -35,3 +35,6 @@ Para entender a inserção desses métodos em cursos de graduação de física, 
 
 Ou todas as bibliotecas podem ser instaladas de uma só vez rodando o pip sobre o arquivo `requirements.txt`:
 `pip install -r requirements.txt`
+
+## Citação
+H. Ferreira, E. F. Almeida Junior, W. Espinsa-Garcia, E. Novais, J. N. B. Rodrigues, G. M. Dalpian. Introduzindo aprendizado de máquina em cursos de física: o caso do rolamento do plano inclinado, Revista Brasileira de Ensino de Física, vol. 44, 2022. DOI: https://doi.org/10.1590/1806-9126-RBEF-2022-0214   
