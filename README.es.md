@@ -33,3 +33,7 @@ Debe tener `Python 3` instalado en su computador, con el administrador de paquet
 
 O todas las bibliotecas se pueden instalar a la vez ejecutando pip sobre el archivo `requirements.txt`:
 `pip install -r requirements.txt`
+
+
+## Citación
+H. Ferreira, E. F. Almeida Junior, W. Espinsa-Garcia, E. Novais, J. N. B. Rodrigues, G. M. Dalpian. Introduzindo aprendizado de máquina em cursos de física: o caso do rolamento do plano inclinado, Revista Brasileira de Ensino de Física, vol. 44, 2022. DOI: https://doi.org/10.1590/1806-9126-RBEF-2022-0214   
