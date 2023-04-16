@@ -14,6 +14,9 @@ Para comprender la inserción de estos métodos en los cursos de pregrado en fí
 - En `datasets` están contenidos los ficheros `.csv` de los datos experimentales de rodamiento (esfera, cilindro y aro) sobre el plano inclinado (`rolling.csv`) y el levantamiento de los menús (`curriculum.csv`) de Física Computacional, Cálculo Numérico y asignaturas afines cursos de pregrado de física en universidades federales Brasileñas;
 - En `notebooks` están los archivos `.ipynb` que contienen la secuencia de código para aplicar técnicas de Machine Learning en el conjunto de datos.
 
+## Uso Online
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/IArpi/blob/main/notebooks/iarpi.ipynb)
+
 
 ## Instalación
 
