@@ -15,6 +15,9 @@ To understand the insertion of these concepts in brazilian physics undergraduate
 - In `datasets` folder are the `.csv` files with experimental data (`rolling.csv`) and curriculum subjects (`curriculum.csv`) in portuguese.
 - In `notebooks` folder is the `.ipynb` file with Python code of Machine Learning over the rolling data.
 
+## Online Use
+
+You can run the code at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/IArpi/blob/main/notebooks/iarpi.ipynb)
 
 ## Requeriments
 It is necessary a `Python 3` installation, with `pip` package manager. The used libraries can be installed by:
