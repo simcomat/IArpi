@@ -14,6 +14,9 @@ Para entender a inserção desses métodos em cursos de graduação de física, 
 - Em `datasets` estão contidos os arquivos `.csv` dos dados experimentais de rolamento no plano inclinado (`rolling.csv`) e do levantamento das ementas (`curriculum.csv`) de disciplinas de Física Computacional, Cálculo Numérico e correlatas de cursos de graduação em física de universidades federais brasileiras;
 - Em `notebooks` estão os arquivos `.ipynb` contendo a sequência de códigos para aplicação das técnicas de Aprendizado de Máquina sobre o dataset.
 
+## Uso Online
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/IArpi/blob/main/notebooks/iarpi.ipynb)
+
 
 ## Instalação
 
